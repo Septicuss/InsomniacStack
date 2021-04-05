@@ -1,0 +1,23 @@
+name: InsomiacStack
+description: Mob Stacker Plugin
+version: 1.0.0
+api-version: 1.15
+author: Septicuss
+depend: [Vault]
+main: me.Septicuss.InsomniacStack.InsomniacStack
+
+commands:
+  insomniacstack:
+
+permissions:
+  insomniacstack.*:
+    description: All Permissions withing InsomniacStack plugin
+  insomniacstack.command:
+    description: Full access to /insomniacstack command
+  insomniacstack.upgrade.rewards:
+    description: Reward Upgrade
+  insomniacstack.upgrade.rewards.1:
+    description: Reward Upgrade
+  insomniacstack.upgrade.doubledrops:
+    description: Double Drops Upgrade
+
